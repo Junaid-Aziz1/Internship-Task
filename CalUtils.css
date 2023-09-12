@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    text-align: center;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+
+.extend{
+    width: 140px;
+    text-align: left;
+}
